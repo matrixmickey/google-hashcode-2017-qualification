@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StreamingVideos": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\mhoward\\Downloads\\qualification_round_2017.in\\qualification_round_2017.in\\test.txt C:\\Users\\mhoward\\Downloads\\qualification_round_2017.in\\qualification_round_2017.in\\testout.txt"
+    }
+  }
+}
